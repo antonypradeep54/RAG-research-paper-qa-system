@@ -187,7 +187,7 @@ This project provided hands-on experience with:
 
 ### Antony Pradeep Raj
 
-Senior ERP Product Manager | AI Product Manager Aspirant
+ERP Product Manager | Aspiring AI Product Manager
 
 With nearly 20 years of experience in ERP Product Management, Business Process Automation, and Digital Transformation, I am currently expanding my expertise into Generative AI, Retrieval-Augmented Generation (RAG), AI Agents, and AI Product Management.
 
